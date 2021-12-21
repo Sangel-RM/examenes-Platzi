@@ -1,5 +1,5 @@
 # Fundamentos de Ingeniería de Software
-
+*Si alguna respuesta esta incorrecta puedes realizar un pull request para colocar la respuesta correcta :D.*
 #### ¿Cuántos bits utliza una dirección ipv4?
 		32
 ###### Razón: Un byte equivale a 8 bits, ipv4 usa 4bytes, por lo que 4 bytes = 32 bits por ser una dirección ipv4.
