@@ -98,7 +98,7 @@
 #### Si usas: 
 > git config --global alias.platzi "shortlog"
 
-####¿Cómo invocar ese comando?
+#### ¿Cómo invocar ese comando?
 		git platzi
 ###### Razón: Los alias son sinónimos de accesos rapidos permite darle un nombre a alguna instrucción para realizarlo de forma más eficaz.
 ###### Vídeo: [Crea un repositorio de Git y haz tu primer commit](https://platzi.com/clases/1557-git-github/19936-crea-un-repositorio-de-git-y-haz-tu-primer-commit/ "Crea un repositorio de Git y haz tu primer commit")
