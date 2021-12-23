@@ -10,7 +10,7 @@
 |-----------|
 |[Fundamentos de Ingeniería de Software](FundamentosIS.md)| 
 |[Curso Profesional de Git y GitHub](CursoGit.md)| 
-
+|[Curso de Estrategias para Aprender Inglés Online](EstrategiaInglesOnline.md)|
 
 &nbsp;
 
