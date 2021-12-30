@@ -175,8 +175,9 @@
 ###### Vídeo: [Places](https://platzi.com/clases/1945-ingles-principiantes/29602-places/ "Places")
 ------------
 #### This is an _________. 
-		 airport
-###### Razón: 
+![](https://static.platzi.com/media/user_upload/photo-1561101904-da649fcbf03f-77b06599-cb8c-4ebf-8de3-bea17211cbcc.jpg)
+
+		airport
 ###### Razón: Esto es un __. La imagen muestra un aeropuerto y esto traducido al inglés es airport.
 ###### Vídeo: [Places](https://platzi.com/clases/1945-ingles-principiantes/29602-places/ "Places")
 ------------
