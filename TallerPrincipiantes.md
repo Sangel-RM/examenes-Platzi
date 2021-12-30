@@ -5,7 +5,7 @@
 ###### Razón: It's a pleasure to meet you - Es un placer conocerte. 
 ###### Vídeo: [Greetings](https://platzi.com/clases/2005-taller-principiantes/31162-greetings/ "Greetings")
 ------------
-#### It´s nice to meet you ____.
+#### It's nice to meet you ____.
 		 too
 ###### Razón: It's a pleasure to meet you, too - Es un placer conocerte, también / También es un placer conocerte.
 ###### Vídeo: [Greetings](https://platzi.com/clases/2005-taller-principiantes/31162-greetings/ "Greetings")
@@ -15,7 +15,7 @@
 ###### Razón: How are you - ¿Cómo estás?
 ###### Vídeo: [How are you?](https://platzi.com/clases/2005-taller-principiantes/31165-how-are-you/ "How are you?")
 ------------
-#### I´m ____.
+#### I'm ____.
 		 well 
 ###### Razón: I'm well - Estoy bien 
 ###### Vídeo: [How are you?](https://platzi.com/clases/2005-taller-principiantes/31165-how-are-you/ "How are you?")
@@ -26,7 +26,7 @@
 ###### Vídeo: [Technical difficulties](https://platzi.com/clases/2005-taller-principiantes/31167-technical-difficulties/ "Technical difficulties")
 ------------
 #### ____ sorry!
-		 I´m 
+		 I'm 
 ###### Razón: I'm sorry! - ¡Lo siento!
 ###### Vídeo: [Technical difficulties](https://platzi.com/clases/2005-taller-principiantes/31167-technical-difficulties/ "Technical difficulties")
 ------------
@@ -65,9 +65,9 @@
 ###### Razón: What is his job? - ¿Cuál es su trabajo?
 ###### Vídeo: [Personal information review](https://platzi.com/clases/2005-taller-principiantes/31183-personal-information-review/ "Personal information review")
 ------------
- ####He´s ___ Colombia.
+ #### He's ___ Colombia.
  		 from
-###### Razón: He´s from Colombia - Él es de Colombia.
+###### Razón: He's from Colombia - Él es de Colombia.
 ###### Vídeo: [Personal information review](https://platzi.com/clases/2005-taller-principiantes/31183-personal-information-review/ "Personal information review")
 ------------
 #### I have 4 folders in my hand, ___ are mine.
@@ -81,7 +81,7 @@
 ###### Vídeo: [First day of work](https://platzi.com/clases/2005-taller-principiantes/31180-first-day-of-work/ "First day of work")
 ------------
 #### That is ____ computer.
-		 John´s
+		 John's
 ###### Razón: That is John's computer - Esa computadora es de John. Los apóstrofes suelen usarse para mostrar quién es dueño de algo o que algo le pertenece a alguien o a un grupo.
 ###### Vídeo: [Your new team](https://platzi.com/clases/2005-taller-principiantes/31178-your-new-team/ "Your new team")
 ------------
