@@ -14,5 +14,7 @@
 |[Curso de Introducción a la Terminal y Línea de Comandos](IntroduccionTerminal.md)|
 |[Curso de Inglés para Principiantes](EnglishBeginners.md)|
 |[Taller de Inglés para Principiantes](TallerPrincipiantes.md)|	
+|[Curso de Inglés Básico A1: Presente Simple y Vocabulario Común](englishA1_PresentSimple.md)|
+
 &nbsp;
 
