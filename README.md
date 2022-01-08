@@ -15,6 +15,7 @@
 |[Curso de Inglés para Principiantes](EnglishBeginners.md)|
 |[Taller de Inglés para Principiantes](TallerPrincipiantes.md)|	
 |[Curso de Inglés Básico A1: Presente Simple y Vocabulario Común](englishA1_PresentSimple.md)|
+|[Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples](englishA1_Dates.md)|
 
 &nbsp;
 
