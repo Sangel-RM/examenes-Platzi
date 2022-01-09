@@ -1,4 +1,4 @@
-# Curso de Inglés Básico A1: Presente Simple y Vocabulario Común
+# Clases del Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples
 *Si alguna respuesta esta incorrecta puedes realizar un pull request para colocar la respuesta correcta :D.*
 #### When is your birthday?
 		 My birthday is on February 21st.
