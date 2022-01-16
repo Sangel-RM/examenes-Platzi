@@ -17,8 +17,12 @@
 |[Curso de Inglés Básico A1: Presente Simple y Vocabulario Común](englishA1_PresentSimple.md)|
 |[Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples](englishA1_Dates.md)|
 |[Curso de Introducción a Java SE](javaSE.md)|
+<<<<<<< HEAD
 |[Curso de Programación Orientada a Objetos: POO](POO.md)|
 |[Curso de Inglés Básico A2: Preguntas y Respuestas](EnglishA2_q&a.md)|
+=======
+|[Curso de Programación Orientada a Objetos: POO](Poo.md)|
+>>>>>>> 0a4c0447d2c8302632c3e28b420685329449738b
 
 &nbsp;
 
