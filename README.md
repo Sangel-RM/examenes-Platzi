@@ -18,6 +18,7 @@
 |[Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples](englishA1_Dates.md)|
 |[Curso de Introducción a Java SE](javaSE.md)|
 |[Curso de Programación Orientada a Objetos: POO](POO.md)|
+|[Curso de Inglés Básico A2: Preguntas y Respuestas](EnglishA2_q&a.md)|
 
 &nbsp;
 
