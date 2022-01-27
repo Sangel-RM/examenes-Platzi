@@ -1,4 +1,4 @@
-# Clases del Curso de Inglés Básico A2: Horas y Solicitudes
+# Curso de Inglés Básico A2: Horas y Solicitudes
 *Si alguna respuesta esta incorrecta puedes realizar un pull request para colocar la respuesta correcta :D.*
 #### Complete the sentence: I like watching movies, ____ I don't like watching series.
 		 but
