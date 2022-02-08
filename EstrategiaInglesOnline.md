@@ -1,4 +1,4 @@
-# Curso de Estrategias para Aprender Inglés Online | 2020
+# Curso de Estrategias para Aprender Inglés Online - 2020
 *Si alguna respuesta esta incorrecta puedes realizar un pull request para colocar la respuesta correcta :D.*
 #### Si te encontraras con un amigo que no está convencido de aprender inglés en línea, ¿cuáles son las dos ventajas que mencionarías para que empiece su proceso?
 		 Autonomía y recursos **
