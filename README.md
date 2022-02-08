@@ -22,6 +22,7 @@
 |[Curso de Java SE Orientado a Objetos](JavaSEPoo.md)|
 |[Curso de Inglés Básico A2: Horas y Solicitudes](EnglishA2_hours&request.md)|
 |[Curso de Kotlin desde Cero](Kotlin_desde0.md)|
+|[Curso de Bases Técnicas de Android](BasesTecnicasAndroid.md)|
 
 &nbsp;
 
