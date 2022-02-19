@@ -23,7 +23,7 @@
 |[Curso de Inglés Básico A2: Horas y Solicitudes](EnglishA2_hours&request.md)|
 |[Curso de Kotlin desde Cero](Kotlin_desde0.md)|
 |[Curso de Bases Técnicas de Android](BasesTecnicasAndroid.md)|
-|[Curso de Inglés Básico A2: Adverbios y Sustantivos](englishA2_Adverbs.md)|
+|[Curso de Inglés Básico A2: Adverbios y Sustantivos](englishA2_Adverbs&Nouns.md)|
 
 &nbsp;
 
