@@ -26,6 +26,7 @@
 |[Curso de Inglés Básico A2: Adverbios y Sustantivos](englishA2_Adverbs&Nouns.md)|
 |[Curso de Introducción al Desarrollo Backend](IntroduccionBackend.md)|
 |[Curso de Frontend Developer](FrontendDev.md)|
+|[Curso Práctico de Frontend Developer](practicoFrontendDeveloper.md)|
 
 &nbsp;
 
