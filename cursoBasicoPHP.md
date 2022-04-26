@@ -63,19 +63,19 @@
 ###### Vídeo: [Operadores lógicos: ¿qué son las tablas de verdad?](https://platzi.com/clases/2646-php/44443-operadores-logicos-que-son-las-tablas-de-verdad/ "Operadores lógicos: ¿qué son las tablas de verdad?")
 ------------
 #### ¿Cuál sería el resultado de la siguiente operación lógica?
-> <?php
-> $soy_muy_inteligente = true;
-> $voy_a_pasar_este_examen = true;
-> var_dump($soy_muy_inteligente && $voy_a_pasar_este_examen);
-
-		 true
+		 <?php
+		 $soy_muy_inteligente = true;
+		 $voy_a_pasar_este_examen = true;
+		 var_dump($soy_muy_inteligente && $voy_a_pasar_este_examen);
+		 		 
+> true
 ###### Razón: De acuerdo con la tabla de verdad de AND, TRUE y TRUE es  TRUE.  [PHP Operadores Lógicos](https://www.php.net/manual/es/language.operators.logical.php "PHP Operadores Lógicos")
 ###### Vídeo: [Operadores lógicos: ¿qué son las tablas de verdad?](https://platzi.com/clases/2646-php/44443-operadores-logicos-que-son-las-tablas-de-verdad/ "Operadores lógicos: ¿qué son las tablas de verdad?")
 ------------
 #### ¿Cuál es el resultado de la siguiente operación en PHP?
-> echo 5 + "5 michis";
+		 echo 5 + "5 michis";
 
-		 10, pero con una advertencia de tipos.
+> 10, pero con una advertencia de tipos.
 ###### Razón: PHP es capaz de sumar valores númericos de un string pero no es buena práctica debido a que se mezclan los tipos de datos, que es la advertencia que aparece al ejecutarlo.
 ###### Vídeo: [Operadores aritméticos](https://platzi.com/clases/2646-php/44445-operadores-aritmeticos/ "Operadores aritméticos")
 ------------
@@ -97,21 +97,21 @@
 ###### Vídeo: [Operadores relacionales](https://platzi.com/clases/2646-php/44446-operadores-relacionales/ "Operadores relacionales")
 ------------
 #### ¿Cuál sería el resultado de ejecutar esta expresión en PHP?
-> <?php
-> $a = 1;
-> $c = $b = $a;
+		 <?php
+		 $a = 1;
+		 $c = $b = $a;
 
-		 Tendría 3 variables. Todas con el valor "1". El valor de la variable $a es asignado a la variable $b y el valor de la variable $b es asignado a la variable $c.
+ > Tendría 3 variables. Todas con el valor "1". El valor de la variable $a es asignado a la variable $b y el valor de la variable $b es asignado a la variable $c.
 ###### Razón: Debido a que en la anterior operación la asociatividad es derecha, primero el valor de la variablae a, que tiene de valor 1 es asignado a la variable  b, y finalmente a la variable c.
 ###### Vídeo: [Precedencia de operadores](https://platzi.com/clases/2646-php/44448-precedencia-de-operadores/ "Precedencia de operadores")
 ------------
 #### ¿Cuál sería el resultado de ejecutar esta expresión en PHP?
-> $michis_toman_agua = true;
-> $michis_ladran = false;
-> $resultado = $michis_toman_agua and $michis_ladran;
-> var_dump($resultado);
+		 $michis_toman_agua = true;
+		 $michis_ladran = false;
+		 $resultado = $michis_toman_agua and $michis_ladran;
+		 var_dump($resultado);
 
-		true
+> true
 ###### Razón: En este caso la precedencia de operadores, dice que and su operación de asociatividad es derecha, por lo que primero realiza la asignación, y luego lo compara dando true, ya que sí fuera con el operador && sería false.
 ###### Vídeo: [Precedencia de operadores](https://platzi.com/clases/2646-php/44448-precedencia-de-operadores/ "Precedencia de operadores")
 ------------
