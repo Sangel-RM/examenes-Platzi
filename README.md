@@ -31,6 +31,7 @@
 |[Curso Práctico de HTML y CSS](cursoPracHTMLyCSS.md)|
 |[Curso de Responsive Design: Maquetación Mobile First](cursoMobileFirst.md)|
 |[Curso Básico de PHP: Instalación, Fundamentos y Operadores](cursoBasicoPHP.md)|
+|[Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control](cursoBasicoPHP2.md)|
 
 &nbsp;
 
