@@ -33,6 +33,7 @@
 |[Curso Básico de PHP: Instalación, Fundamentos y Operadores](cursoBasicoPHP.md)|
 |[Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control](cursoBasicoPHP2.md)|
 |[Curso Práctico de PHP](cursoPracticoPHP.md)|
+|[Curso de PHP con Composer](cursoPHPComposer.md)|
 
 &nbsp;
 
