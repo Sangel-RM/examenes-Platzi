@@ -35,6 +35,7 @@
 |[Curso Práctico de PHP](cursoPracticoPHP.md)|
 |[Curso de PHP con Composer](cursoPHPComposer.md)|
 |[Curso de Integración de PHP con HTML](cursoIntregacionPHyHTML.md)|
+|[Curso Básico de JavaScript](cursoBasicoJS.md)|
 
 
 &nbsp;
