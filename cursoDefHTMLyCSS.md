@@ -134,9 +134,14 @@
 ###### Vídeo: [Index y su estructura básica: head](https://platzi.com/clases/2008-html-css/31088-index-y-su-estructura-basica-head/ "Index y su estructura básica: head")
 ------------
 #### ¿Para qué utilizamos el atributo alt en las etiquetas img?
-		 Con position: relative; podemos posicionar un elemento respecto al flujo normal de la página. Con position: absolute; el elemento no estará dentro del flujo normal de la página y tomará como referencia la ventana del navegador o el elemento padre posicionado más cercano.
+		 Nos ayuda para poder tener una descripción en la imagen en caso de que por algo no se pueda renderizar, y nos ayuda en temas de discapacidad, para que softwares que leen pantallas para personas con alguna discapacidad visual puedan escuchar la descripción de la imagen que están pasando.
 ###### Razón: El atributo alt en las imágenes proporciona una descripción para un screen readers.
 ###### Vídeo: [Labels, alt y title](https://platzi.com/clases/2008-html-css/31219-labels-alt-y-title/ "Labels, alt y title")
+------------
+#### ¿Cuál es la diferencia entre posición absoluta y relativa?
+		 Con position: relative; podemos posicionar un elemento respecto al flujo normal de la página. Con position: absolute; el elemento no estará dentro del flujo normal de la página y tomará como referencia la ventana del navegador o el elemento padre posicionado más cercano.
+###### Razón: Con ambos position podemos posicionar al elemento. Con position: absolute; el elemento pierde su posición original respecto de su contenedor y con position: relative; mantiene dicha posición.
+###### Vídeo: [Position](https://platzi.com/clases/2008-html-css/31058-position/ "Position")
 ------------
 #### ¿Cuál es el tamaño de fuente que viene por defecto en el navegador?
 		 16 px
