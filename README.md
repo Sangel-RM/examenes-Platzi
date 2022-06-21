@@ -36,7 +36,7 @@
 |[Curso de PHP con Composer](cursoPHPComposer.md)|
 |[Curso de Integración de PHP con HTML](cursoIntregacionPHyHTML.md)|
 |[Curso Básico de JavaScript](cursoBasicoJS.md)|
-|[Curso de Manejo de Datos en PHP](cursoManejoDatosPHP.md.md)|
+|[Curso de Manejo de Datos en PHP](cursoManejoDatosPHP.md)|
 
 
 &nbsp;
