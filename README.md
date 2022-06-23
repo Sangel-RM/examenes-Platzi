@@ -38,6 +38,7 @@
 |[Curso Básico de JavaScript](cursoBasicoJS.md)|
 |[Curso de Manejo de Datos en PHP](cursoManejoDatosPHP.md)|
 |[Curso de Programación Orientada a Objetos en PHP](cursoProgramacionPOO_PHP.md)|
+|[Curso de Buenas Prácticas en PHP](cursoBuenasPracticasPHP.md)|
 
 
 &nbsp;
