@@ -39,6 +39,7 @@
 |[Curso de Manejo de Datos en PHP](cursoManejoDatosPHP.md)|
 |[Curso de Programación Orientada a Objetos en PHP](cursoProgramacionPOO_PHP.md)|
 |[Curso de Buenas Prácticas en PHP](cursoBuenasPracticasPHP.md)|
+|[Curso Intermedio de PHP: Entornos Virtuales y Funciones Avanzadas](cursoIntermedioPHPEntVFunAvz.md)|
 
 
 &nbsp;
