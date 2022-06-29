@@ -40,7 +40,7 @@
 |[Curso de Programación Orientada a Objetos en PHP](cursoProgramacionPOO_PHP.md)|
 |[Curso de Buenas Prácticas en PHP](cursoBuenasPracticasPHP.md)|
 |[Curso Intermedio de PHP: Entornos Virtuales y Funciones Avanzadas](cursoIntermedioPHPEntVFunAvz.md)|
-
+|[Curso Intermedio de PHP: Cookies, Sesiones y Modularización](cursoIntermedioPHPCSM.md)|
 
 &nbsp;
 
