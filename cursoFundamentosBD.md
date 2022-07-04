@@ -148,4 +148,4 @@
 #### ¿Cuáles son las dos funciones básicas de la mayoría de servicios de machine learning?
 		 Predicción y clasificación
 ###### Razón: El Machine Learning es una disciplina del campo de la Inteligencia Artificial que, a través de algoritmos, dota a los ordenadores de la capacidad de identificar patrones en datos masivos y elaborar prediccione
-###### Vídeo: [Machine Learning](https://platzi.com/clases/1566-bd/19835-machine-learning3347/)
+###### Vídeo: [Machine Learning](https://platzi.com/clases/1566-bd/19835-machine-learning3347/) 
