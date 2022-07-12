@@ -44,6 +44,7 @@
 |[Curso de Introducción a Frameworks de PHP](cursoIntroduccionFrameworksPHP.md)|
 |[Curso de Introducción a Laravel 9](cursoIntroduccionLaravel9.md)|
 |[Curso Básico de Manejo de Datos en Laravel con Eloquent ORM](cursoBasicoManejoDatosEloquentORM.md)|
+|[Curso de Single Page Applications en Laravel con Inertia y Vue.js](cursoSPALaravelInertiaVue.md)|
 
 &nbsp;
 
