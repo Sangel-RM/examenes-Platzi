@@ -46,6 +46,7 @@
 |[Curso Básico de Manejo de Datos en Laravel con Eloquent ORM](cursoBasicoManejoDatosEloquentORM.md)|
 |[Curso de Single Page Applications en Laravel con Inertia y Vue.js](cursoSPALaravelInertiaVue.md)|
 |[Curso Básico de Testing con PHP y Laravel](cursobasicotestingphplaravel.md)|
+|[Curso de API REST con Laravel](cursoAPIRESTLaravel.md)|
 
 &nbsp;
 
