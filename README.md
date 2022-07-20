@@ -47,7 +47,7 @@
 |[Curso de Single Page Applications en Laravel con Inertia y Vue.js](cursoSPALaravelInertiaVue.md)|
 |[Curso Básico de Testing con PHP y Laravel](cursobasicotestingphplaravel.md)|
 |[Curso de API REST con Laravel](cursoAPIRESTLaravel.md)|
-|[Curso de Desarrollo en Laravel con Test Driven Development](cursoDesarrolloLaravelTDD.md)|
+|[Curso de Desarrollo en Laravel con Test Driven Development](cursodesarrollolaraveltdd.md)|
 |[Curso de Introducción al Despliegue de Aplicaciones](cursoIntroduccionDespliegueAplicaciones.md)|
 
 
