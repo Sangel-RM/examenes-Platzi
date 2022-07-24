@@ -40,6 +40,7 @@
 |[Curso de Programación Orientada a Objetos en PHP](cursoProgramacionPOO_PHP.md)|
 |[Curso de Buenas Prácticas en PHP](cursoBuenasPracticasPHP.md)|
 |[Curso Intermedio de PHP: Entornos Virtuales y Funciones Avanzadas](cursoIntermedioPHPEntVFunAvz.md)|
+|[Curso Intermedio de PHP: Cookies, Sesiones y Modularización](cursoIntermedioPHPCSM.md)|
 |[Curso de Fundamentos de Bases de Datos](cursoFundamentosBD.md)|
 |[Curso de Introducción a Frameworks de PHP](cursoIntroduccionFrameworksPHP.md)|
 |[Curso de Introducción a Laravel 9](cursoIntroduccionLaravel9.md)|
@@ -49,7 +50,7 @@
 |[Curso de API REST con Laravel](cursoAPIRESTLaravel.md)|
 |[Curso de Desarrollo en Laravel con Test Driven Development](cursodesarrollolaraveltdd.md)|
 |[Curso de Introducción al Despliegue de Aplicaciones](cursoIntroduccionDespliegueAplicaciones.md)|
-
+|[Curso Básico de Tailwind 2 y 3](cursoBasicoTailwind2-3.md)|
 
 &nbsp;
 
