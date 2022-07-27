@@ -51,6 +51,7 @@
 |[Curso de Desarrollo en Laravel con Test Driven Development](cursodesarrollolaraveltdd.md)|
 |[Curso de Introducción al Despliegue de Aplicaciones](cursoIntroduccionDespliegueAplicaciones.md)|
 |[Curso Básico de Tailwind 2 y 3](cursoBasicoTailwind2-3.md)|
+|[Curso de Figma](cursoFigma.md)|
 
 &nbsp;
 
