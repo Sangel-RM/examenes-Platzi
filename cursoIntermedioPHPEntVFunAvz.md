@@ -56,10 +56,14 @@
 ###### Vídeo: [¿Variables... variables?](https://platzi.com/clases/3151-php-entornos-funciones/49757-variables-variables/)
 ------------
 #### ¿Cuál sería el resultado del siguiente código?
-		 <?php
-		 $variable = "edad";
-		 $$variable = 14;
-		 echo $edad;
+```php
+<?php
+$variable = "edad";
+$$variable = 14;
+echo $edad;
+```
+		 
+		 14
 ###### Razón: En ese ejemplo se ha definido $variale con el valor de "edad", entonces en la siguiente línea se accede a la variable variable colocando el doble signo de dolar, entonces a la variable de edad se le asigna el valor de 14, y al imprimirlo sale 14.
 ###### Vídeo: [¿Variables... variables?](https://platzi.com/clases/3151-php-entornos-funciones/49757-variables-variables/)
 ------------
@@ -79,7 +83,7 @@
 ###### Razón: La expresión match ramifica la evaluación basada en una comprobación de identidad de un valor. De forma similar a una sentencia switch, una expresión match tiene una expresión de sujeto que se compara con múltiples alternativas. A diferencia de switch, se evaluará a un valor muy parecido al de las expresiones ternarias. A diferencia de switch, la comparación es una comprobación de identidad (===) en lugar de una comprobación de igualdad débil (==). [match](https://www.php.net/manual/es/control-structures.match.php)
 ###### Vídeo: [Match](https://platzi.com/clases/3151-php-entornos-funciones/49810-match/)
 ------------
-#### ¿Cuál sería el resultado del siguiente código?
+#### 
 ##### <?php
 ##### function bark() {
 ##### return "woof!";
