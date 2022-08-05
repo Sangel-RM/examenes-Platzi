@@ -54,6 +54,7 @@
 |[Curso de Figma](cursoFigma.md)|
 |[Curso de Figma Avanzado](CursoFigmaAvanzado.md)|
 |[Curso de Introducción a la nube con Azure](cursoIntroduccionNubeAzure.md)|
+|[Curso de Introducción a AWS: Fundamentos de Cloud Computing](cursoIntroduccionAWS.md)|
 
 
 
