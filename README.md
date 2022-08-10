@@ -57,6 +57,7 @@
 |[Curso de Introducción a AWS: Fundamentos de Cloud Computing](cursoIntroduccionAWS.md)|
 |[Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos](cursoIntroduccionAWS-CABD.md)|
 |[Curso de Diseño para Developers](cursoDisenoDevs.md)|
+|[Curso de Sistemas de Diseño](cursoSistemasDiseno.md)|
 
 &nbsp;
 
