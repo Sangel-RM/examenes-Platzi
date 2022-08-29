@@ -59,6 +59,7 @@
 |[Curso de Diseño para Developers](cursoDisenoDevs.md)|
 |[Curso de Sistemas de Diseño](cursoSistemasDiseno.md)|
 |[Curso de CSS Grid Básico](cursoCSSGridBasico.md)|
+|[Curso Práctico de Maquetación en CSS](cursoPracticoMaquetacionCSS.md)|
 
 
 &nbsp;
