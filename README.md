@@ -60,6 +60,7 @@
 |[Curso de Sistemas de Diseño](cursoSistemasDiseno.md)|
 |[Curso de CSS Grid Básico](cursoCSSGridBasico.md)|
 |[Curso Práctico de Maquetación en CSS](cursoPracticoMaquetacionCSS.md)|
+|[Curso Profesional de CSS Grid Layout](cursoProfesionalCSSGridLayout.md)|
 
 
 &nbsp;
