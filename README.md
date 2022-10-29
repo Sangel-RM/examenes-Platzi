@@ -62,6 +62,7 @@
 |[Curso Práctico de Maquetación en CSS](cursoPracticoMaquetacionCSS.md)|
 |[Curso Profesional de CSS Grid Layout](cursoProfesionalCSSGridLayout.md)|
 |[Curso de Introducción a Educación Financiera](IntroduccionEducacionFinanciera.md)|
+|[Curso de Finanzas Personales](cursoFinanzasPersonales.md)|
 
 
 &nbsp;
