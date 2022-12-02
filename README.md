@@ -64,7 +64,7 @@
 |[Curso de Introducción a Educación Financiera](IntroduccionEducacionFinanciera.md)|
 |[Curso de Finanzas Personales](cursoFinanzasPersonales.md)|
 |[Curso para Manejar tu Deuda](cursoManejoDeDeuda.md)|
-
+|[Curso de Presupuesto y Flujo de Caja](cursoPresupuestoYFlujoDeCaja.md)|
 
 &nbsp;
 
