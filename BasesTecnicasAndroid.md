@@ -93,7 +93,7 @@
 ###### Vídeo: [Tienda de Aplicaciones Android](https://platzi.com/clases/1264-tecnico-android/10804-tienda-de-aplicaciones-android/ "Tienda de Aplicaciones Android")
 ------------
 #### Si quisieras testear tu app, ¿cuál sería el mejor camino para hacerlo?
-		 Si quisieras testear tu app, ¿cuál sería el mejor camino para hacerlo?
+		 Empezar con test pequeños, luego test medianos que integren los pequeños hasta pasar a los largos que testean flujos e interfaces
 ###### Razón: Existen 3 tipos de pruebas: UI TEST - INTEGRATION TEST - UNIT TESTS
 ###### Vídeo: [Tipos de Testing en Android y UI Test](https://platzi.com/clases/1264-tecnico-android/10801-tipos-de-testing-en-android-y-ui-test/ "Tipos de Testing en Android y UI Test")
 ------------
