@@ -66,6 +66,7 @@
 |[Curso para Manejar tu Deuda](cursoManejoDeDeuda.md)|
 |[Curso de Presupuesto y Flujo de Caja](cursoPresupuestoYFlujoDeCaja.md)|
 |[Curso Práctico de Finanzas con Adulting: Crear un Presupuesto Personal](cursoPracticoFinanzasAdultingPresupuestoPersonal.md)|
+|[Curso Básico de JavaScript](cursoBasicoJavaScript.md)|
 
 &nbsp;
 
