@@ -67,6 +67,7 @@
 |[Curso de Presupuesto y Flujo de Caja](cursoPresupuestoYFlujoDeCaja.md)|
 |[Curso Práctico de Finanzas con Adulting: Crear un Presupuesto Personal](cursoPracticoFinanzasAdultingPresupuestoPersonal.md)|
 |[Curso Básico de JavaScript](cursoBasicoJavaScript.md)|
+|[Curso de Principios de Visualización de Datos para Business Intelligence](CursodePrincipiosdeVisualizacióndeDatosparaBusinessIntelligence.md)|
 
 &nbsp;
 
