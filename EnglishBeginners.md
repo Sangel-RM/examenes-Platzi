@@ -10,7 +10,7 @@
 #### How many colored pencils are there?
 ![](https://static.platzi.com/media/user_upload/12-a50d375d-9bf6-438e-a978-679b9e15cecf.jpg)
 
-		 Sixteen
+		 Sixteen.
 ###### Razón: ¿Cuántos lápices de colores hay? - Hay 16 lápices de colores. Dieciséis en inglés en sixteen.
 ###### Vídeo: [Numbers 1-30](https://platzi.com/clases/1945-ingles-principiantes/29596-numbers-1-30/ "Numbers 1-30")
 ------------
